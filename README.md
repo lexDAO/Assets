@@ -1,5 +1,4 @@
 # 💼
-> Codebases, dApps and other assets maintained by lexDAO 🔧
 
 # __**SHIPPING**__
 

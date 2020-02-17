@@ -26,4 +26,4 @@
 
 🐦 [**Twitter**](https://twitter.com/lex_DAO)
 
-💬 [**Community Chat**](http://13.59.183.200:3000/home)e
+💬 [**Community Chat**](http://13.59.183.200:3000/home)

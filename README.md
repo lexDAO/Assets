@@ -18,6 +18,8 @@
 
 🗣️ – [**Ethereum Domains**](https://app.ens.domains/name/lexdao.eth)
 
+🎵 - [**Cybercash Groove NFT MP3 Music Maker**](https://etherscan.io/dapp/0x6c4b3511d46fa72a15401f3488578ce384f9dad6)
+
 ## ORGANIZING 🧘
 
 🏦 – [**lexDAO Coop.**](https://mainnet.aragon.org/#/lexdao) 

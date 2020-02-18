@@ -26,7 +26,7 @@
 
 👉 [**Lawyers**](https://mainnet.aragon.org/#/lexdaolawyer) 
 
-⚖️ [**lexDAO Dandelion**](https://mainnet.aragon.org/#/939f24465226c77e8b9416aee3b4ed4bcd68b45a02ae4c0dfafaf6a65b740511)
+🌼 [**lexDAO LLC (Dandelion)**](https://mainnet.aragon.org/#/939f24465226c77e8b9416aee3b4ed4bcd68b45a02ae4c0dfafaf6a65b740511)
 
 🐦 [**Twitter**](https://twitter.com/lex_DAO)
 

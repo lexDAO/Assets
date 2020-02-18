@@ -20,11 +20,11 @@
 
 ## ORGANIZING 🧘
 
-🏦 – [**lexDAO Coop**](https://mainnet.aragon.org/#/lexdao) 
+🏦 – [**lexDAO Coop.**](https://mainnet.aragon.org/#/lexdao) 
 
-👉 – [**Cred**](https://mainnet.aragon.org/#/lexdaocred) 
+👉 – [**Credentials Committee**](https://mainnet.aragon.org/#/lexdaocred) 
 
-👉 – [**Lawyers**](https://mainnet.aragon.org/#/lexdaolawyer) 
+👉 – [**Lawyer Committee**](https://mainnet.aragon.org/#/lexdaolawyer) 
 
 🌼 – [**lexDAO LLC (Dandelion)**](https://mainnet.aragon.org/#/939f24465226c77e8b9416aee3b4ed4bcd68b45a02ae4c0dfafaf6a65b740511)
 

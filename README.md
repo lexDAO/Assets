@@ -1,6 +1,6 @@
 # ⚖️
 
-## SHIPPING
+## SHIPPING 🚢
 
 🔐 – [**Arb'd Token Escrow**](https://lexdao.club/) 
 
@@ -18,7 +18,7 @@
 
 🗣️ – [**Ethereum Domains**](https://app.ens.domains/name/lexdao.eth)
 
-## ORGANIZING
+## ORGANIZING 🧘
 
 🏦 – [**lexDAO Coop**](https://mainnet.aragon.org/#/lexdao) 
 

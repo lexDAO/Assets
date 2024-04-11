@@ -1,4 +1,10 @@
-# ⚖️
+# ~~~⚖️~~~⚒️ BUIDL Asset
+
+1.  External raids
+2.  Joint ventures (agreement) usually unincorporated
+3.  External contribution (donation)
+4.  Internal assignment (used LexDAO resources) eg work for membership
+5.  Paid staff = from committee work (or CC0)
 
 ## SHIPPING 🚢
 
